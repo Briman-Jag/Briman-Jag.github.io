@@ -7,3 +7,7 @@ h1 {
 .red {
   color : red;
 }
+
+.ind {
+  text-indent: 50px;
+}
